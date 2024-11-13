@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![StenHigh GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzianis-87&include_all_commits=true)
+Profile for public ![StenHigh GitHub Profile](https://github.com/StenHigh)
+This profile only for private work.
+
+![StenHigh GitHub Stats](https://github-readme-stats.vercel.app/api?username=stenhigh&include_all_commits=true)
 
 <!--
 **dzianis-87/dzianis-87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
