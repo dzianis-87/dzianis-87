@@ -1,7 +1,9 @@
 ### Hi there 👋
-
-Profile for public ![StenHigh GitHub Profile](https://github.com/StenHigh)
 This profile only for private work.
+
+
+Profile for public <a href="https://github.com/StenHigh">StenHigh</a>
+
 
 ![StenHigh GitHub Stats](https://github-readme-stats.vercel.app/api?username=stenhigh&include_all_commits=true)
 
